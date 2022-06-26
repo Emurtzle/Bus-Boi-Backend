@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusBoiBackend", "BusBoiBackend.csproj", "{69364491-22CC-48E6-B73A-4B6F7EC02189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69364491-22CC-48E6-B73A-4B6F7EC02189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69364491-22CC-48E6-B73A-4B6F7EC02189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69364491-22CC-48E6-B73A-4B6F7EC02189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69364491-22CC-48E6-B73A-4B6F7EC02189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1E3F05-2E88-4E2A-8DE2-3A3122CADB22}
+	EndGlobalSection
+EndGlobal
